@@ -1,5 +1,4 @@
-I'll create a comprehensive README.md file that matches the React application's functionality and purpose.
-
+![image](https://github.com/user-attachments/assets/3cde5876-e94f-4a6f-8bda-432fdd295fb1)
 
 # Real Cost Calculator
 
