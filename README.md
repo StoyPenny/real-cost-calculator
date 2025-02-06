@@ -49,9 +49,7 @@ cd real-cost-calculator
 npm install
 ````
 
-1. Start the server
-````markdown
-2. Start the development server:
+3. Start the development server:
 ```bash
 npm start
 ````
